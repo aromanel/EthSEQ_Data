@@ -1,0 +1,7 @@
+sample.id	pop	type	contribution
+Sample1	AFR	INSIDE	
+Sample2	AFR	INSIDE	
+Sample3	EUR	INSIDE	
+Sample4	EUR	CLOSEST	EUR(86.96%)|AMR(13.04%)
+Sample5	SAS	INSIDE	
+Sample6	EAS	INSIDE	

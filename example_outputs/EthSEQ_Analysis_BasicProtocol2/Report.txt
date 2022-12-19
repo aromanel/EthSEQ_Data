@@ -1,0 +1,7 @@
+sample.id	pop	type
+Sample1	AFR	INSIDE
+Sample2	AFR	INSIDE
+Sample3	EUR	INSIDE
+Sample4	AMR	CLOSEST
+Sample5	SAS	INSIDE
+Sample6	EAS	INSIDE
